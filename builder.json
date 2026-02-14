@@ -1,0 +1,14 @@
+{
+  "project": "todo_app_demo",
+  "platform": "ios",
+  "github": {
+    "owner": "TheOratorEse",
+    "repo": "todo_project"
+  },
+  "ios": {},
+  "flutter": {
+    "version": "3.35.2"
+  },
+  "reactNative": {},
+  "mobai": {}
+}
